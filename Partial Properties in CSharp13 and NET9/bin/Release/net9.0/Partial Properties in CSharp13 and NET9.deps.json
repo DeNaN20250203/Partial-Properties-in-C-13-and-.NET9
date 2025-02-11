@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Partial Properties in CSharp13 and NET9/1.0.0": {
+        "runtime": {
+          "Partial Properties in CSharp13 and NET9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Partial Properties in CSharp13 and NET9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

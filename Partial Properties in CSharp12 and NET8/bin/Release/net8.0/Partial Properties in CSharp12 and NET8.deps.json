@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Partial Properties in CSharp12 and NET8/1.0.0": {
+        "runtime": {
+          "Partial Properties in CSharp12 and NET8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Partial Properties in CSharp12 and NET8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Work\Visual Studio 2013\Work\Net9\Partial Properties in CSharp13 and NET9\Partial Properties in CSharp12 and NET8\bin\Release\net8.0\Partial Properties in CSharp12 and NET8.exe
+C:\Work\Visual Studio 2013\Work\Net9\Partial Properties in CSharp13 and NET9\Partial Properties in CSharp12 and NET8\bin\Release\net8.0\Partial Properties in CSharp12 and NET8.deps.json
+C:\Work\Visual Studio 2013\Work\Net9\Partial Properties in CSharp13 and NET9\Partial Properties in CSharp12 and NET8\bin\Release\net8.0\Partial Properties in CSharp12 and NET8.runtimeconfig.json
+C:\Work\Visual Studio 2013\Work\Net9\Partial Properties in CSharp13 and NET9\Partial Properties in CSharp12 and NET8\bin\Release\net8.0\Partial Properties in CSharp12 and NET8.dll
+C:\Work\Visual Studio 2013\Work\Net9\Partial Properties in CSharp13 and NET9\Partial Properties in CSharp12 and NET8\bin\Release\net8.0\Partial Properties in CSharp12 and NET8.pdb
+C:\Work\Visual Studio 2013\Work\Net9\Partial Properties in CSharp13 and NET9\Partial Properties in CSharp12 and NET8\obj\Release\net8.0\Partial Properties in CSharp12 and NET8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Visual Studio 2013\Work\Net9\Partial Properties in CSharp13 and NET9\Partial Properties in CSharp12 and NET8\obj\Release\net8.0\Partial Properties in CSharp12 and NET8.AssemblyInfoInputs.cache
+C:\Work\Visual Studio 2013\Work\Net9\Partial Properties in CSharp13 and NET9\Partial Properties in CSharp12 and NET8\obj\Release\net8.0\Partial Properties in CSharp12 and NET8.AssemblyInfo.cs
+C:\Work\Visual Studio 2013\Work\Net9\Partial Properties in CSharp13 and NET9\Partial Properties in CSharp12 and NET8\obj\Release\net8.0\Partial Properties in CSharp12 and NET8.csproj.CoreCompileInputs.cache
+C:\Work\Visual Studio 2013\Work\Net9\Partial Properties in CSharp13 and NET9\Partial Properties in CSharp12 and NET8\obj\Release\net8.0\Partial Properties in CSharp12 and NET8.dll
+C:\Work\Visual Studio 2013\Work\Net9\Partial Properties in CSharp13 and NET9\Partial Properties in CSharp12 and NET8\obj\Release\net8.0\refint\Partial Properties in CSharp12 and NET8.dll
+C:\Work\Visual Studio 2013\Work\Net9\Partial Properties in CSharp13 and NET9\Partial Properties in CSharp12 and NET8\obj\Release\net8.0\Partial Properties in CSharp12 and NET8.pdb
+C:\Work\Visual Studio 2013\Work\Net9\Partial Properties in CSharp13 and NET9\Partial Properties in CSharp12 and NET8\obj\Release\net8.0\Partial Properties in CSharp12 and NET8.genruntimeconfig.cache
+C:\Work\Visual Studio 2013\Work\Net9\Partial Properties in CSharp13 and NET9\Partial Properties in CSharp12 and NET8\obj\Release\net8.0\ref\Partial Properties in CSharp12 and NET8.dll
